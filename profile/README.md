@@ -16,6 +16,7 @@ Our portfolio includes a variety of projects tailored to the needs of private se
 - **Next.js**
 - **React**
 - **SQL Server**
+- **tailwindCss**
 
 ## Get in Touch
 
