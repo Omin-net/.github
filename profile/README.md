@@ -32,6 +32,7 @@ Our portfolio includes a variety of projects tailored to the needs of private se
 We are always excited to connect with new partners and clients. Feel free to reach out to us for collaboration or inquiries.
 <p align="left">
 <a href="https://www.linkedin.com/company/ominnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/ominnet/" height="30" width="40" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="34" height="28"/></a>
 
 
 
