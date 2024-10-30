@@ -31,7 +31,7 @@ Our portfolio includes a variety of projects tailored to the needs of private se
 ## Get in Touch
 We are always excited to connect with new partners and clients. Feel free to reach out to us for collaboration or inquiries.
 <p align="left">
-<a href="https://linkedin.com/in/ashkan-bibioghli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/ominnet/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/ominnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/ominnet/" height="30" width="40" /></a>
 
 
 
